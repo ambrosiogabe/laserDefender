@@ -4,7 +4,7 @@ spaceships as possible before you die. I followed a tutorial for this one, but t
 I decided to take it further and added flying asteroids, powerups, shields, bonus alien spaceships, and the spaceships would get 
 progressively more difficult as the game goes on. It was real fun to make and I hope youe enjoy playing or learning from it.
 
-![Laser defender](/laserDefender.png)
+![Laser defender](/lasedDefender.png)
 
 # To play
 Clone this repository onto your computer then got to /exe/ directory and double click the laserDefender.exe. This game is only built
