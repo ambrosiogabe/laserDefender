@@ -1,0 +1,78 @@
+Initialize engine version: 4.6.9f1 (44099fd26189)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\ambro\Documents\repos\Unity\Laser Defender\exe\LaserDefender_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ambro\Documents\repos\Unity\Laser Defender\exe\LaserDefender_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ambro\Documents\repos\Unity\Laser Defender\exe\LaserDefender_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ambro\Documents\repos\Unity\Laser Defender\exe\LaserDefender_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\ambro\Documents\repos\Unity\Laser Defender\exe\LaserDefender_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\ambro\Documents\repos\Unity\Laser Defender\exe\LaserDefender_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.120 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\ambro\Documents\repos\Unity\Laser Defender\exe\LaserDefender_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\ambro\Documents\repos\Unity\Laser Defender\exe\LaserDefender_Data\Managed\System.dll (this message is harmless)
+New Level load: Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 3.587554 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 376.
+Total: 0.592987 ms (FindLiveObjects: 0.011061 ms CreateObjectMapping: 0.007111 ms MarkObjects: 0.123259 ms  DeleteObjects: 0.003160 ms)
+
+ASTEROID
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+ASTEROID
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+ASTEROID
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+ASTEROID
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+ASTEROID
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+New Level load: Win Screen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.664888 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 151 unused Assets to reduce memory usage. Loaded Objects now: 153.
+Total: 12.779057 ms (FindLiveObjects: 0.026074 ms CreateObjectMapping: 0.007111 ms MarkObjects: 0.095209 ms  DeleteObjects: 12.247303 ms)
+
+New Level load: Start Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.425481 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 165.
+Total: 0.568098 ms (FindLiveObjects: 0.006716 ms CreateObjectMapping: 0.005925 ms MarkObjects: 0.098370 ms  DeleteObjects: 0.001975 ms)
+
+Duplicate music player self-destructing!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Quit requested
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
